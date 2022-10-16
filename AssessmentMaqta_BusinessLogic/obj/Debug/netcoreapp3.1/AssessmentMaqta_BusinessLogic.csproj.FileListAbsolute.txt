@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\bin\Debug\netcoreapp3.1\AssessmentMaqta_BusinessLogic.deps.json
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\bin\Debug\netcoreapp3.1\AssessmentMaqta_BusinessLogic.runtimeconfig.json
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\bin\Debug\netcoreapp3.1\AssessmentMaqta_BusinessLogic.runtimeconfig.dev.json
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\bin\Debug\netcoreapp3.1\AssessmentMaqta_BusinessLogic.dll
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\bin\Debug\netcoreapp3.1\AssessmentMaqta_BusinessLogic.pdb
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\obj\Debug\netcoreapp3.1\AssessmentMaqta_BusinessLogic.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\obj\Debug\netcoreapp3.1\AssessmentMaqta_BusinessLogic.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\obj\Debug\netcoreapp3.1\AssessmentMaqta_BusinessLogic.AssemblyInfo.cs
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\obj\Debug\netcoreapp3.1\AssessmentMaqta_BusinessLogic.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\obj\Debug\netcoreapp3.1\AssessmentMaqta_BusinessLogic.dll
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\obj\Debug\netcoreapp3.1\AssessmentMaqta_BusinessLogic.pdb
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\obj\Debug\netcoreapp3.1\AssessmentMaqta_BusinessLogic.genruntimeconfig.cache
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\bin\Debug\netcoreapp3.1\AssessmentMaqta_DataAccess.dll
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\bin\Debug\netcoreapp3.1\AssessmentMaqta_DataAccess.pdb
+C:\inetpub\wwwroot\AssessmentMaqta_API\AssessmentMaqta_BusinessLogic\obj\Debug\netcoreapp3.1\AssessmentMaqta_BusinessLogic.csproj.CopyComplete
